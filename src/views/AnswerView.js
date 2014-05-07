@@ -142,7 +142,7 @@ define(function(require, exports, module) {
 
 		this.answer1 = new Surface({
 	      content: '',
-	      size: [100, 100],
+	      size: [120, 120],
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
@@ -152,7 +152,7 @@ define(function(require, exports, module) {
 
 	    this.answer2 = new Surface({
 	      content: '',
-	      size: [100, 100],
+	      size: [120, 120],
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
@@ -162,7 +162,7 @@ define(function(require, exports, module) {
 
 	    this.answer3 = new Surface({
 	      content: '',
-	      size: [100, 100],
+	      size: [120, 120],
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
@@ -172,7 +172,7 @@ define(function(require, exports, module) {
 
 	    this.answer4 = new Surface({
 	      content: '',
-	      size: [100, 100],
+	      size: [120, 120],
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
@@ -182,7 +182,7 @@ define(function(require, exports, module) {
 
 	    this.answer5 = new Surface({
 	      content: '',
-	      size: [100, 100],
+	      size: [120, 120],
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
@@ -192,7 +192,7 @@ define(function(require, exports, module) {
 
 	    this.answer6 = new Surface({
 	      content: '',
-	      size: [100, 100],
+	      size: [120, 120],
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
