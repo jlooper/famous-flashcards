@@ -146,8 +146,7 @@ define(function(require, exports, module) {
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
-	        textAlign: 'center',
-	        lineHeight: '100px'
+	        textAlign: 'center'
 	      }
 	    });
 
@@ -157,8 +156,7 @@ define(function(require, exports, module) {
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
-	        textAlign: 'center',
-	        lineHeight: '100px'
+	        textAlign: 'center'
 	      }
 	    });
 
@@ -168,8 +166,7 @@ define(function(require, exports, module) {
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
-	        textAlign: 'center',
-	        lineHeight: '100px'
+	        textAlign: 'center'
 	      }
 	    });
 
@@ -179,8 +176,7 @@ define(function(require, exports, module) {
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
-	        textAlign: 'center',
-	        lineHeight: '100px'
+	        textAlign: 'center'
 	      }
 	    });
 
@@ -190,8 +186,7 @@ define(function(require, exports, module) {
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
-	        textAlign: 'center',
-	        lineHeight: '100px'
+	        textAlign: 'center'
 	      }
 	    });
 
@@ -201,8 +196,7 @@ define(function(require, exports, module) {
 	      classes: ['answer'],
 	      properties: {
 	        color: 'white',
-	        textAlign: 'center',
-	        lineHeight: '100px'
+	        textAlign: 'center'
 	      }
 	    });
 
