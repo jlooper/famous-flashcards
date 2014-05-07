@@ -1,0 +1,17 @@
+{
+  "name": "famous/templates/base",
+  "namespace": "famous/templates",
+  "version": "0.0.0",
+  "description": "",
+  "authors": [],
+  "main": "main",
+  "dependencies": {},
+  "local": [
+    "main"
+  ],
+  "paths": [
+    "app"
+  ],
+  "author": "",
+  "license": "MIT"
+}
