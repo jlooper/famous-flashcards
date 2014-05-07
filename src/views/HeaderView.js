@@ -15,7 +15,7 @@ define(function(require, exports, module) {
 			content: 'French Verb Conjugations',
 			properties: {
 				textAlign: 'center',
-				fontSize: '30px',
+				fontSize: '20px',
 				lineHeight: '50px',
 				backgroundColor: '#D810FF'
 			}
